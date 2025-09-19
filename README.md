@@ -29,8 +29,8 @@ npm run dev
 ```
 ## Github Repo 📁
 
-### [Github Repo]( https://github.com/iamBijoyKar/Portfolio) 👉 https://github.com/iamBijoyKar/Portfolio
+### https://github.com/Mubarak04Basha/React-Portfolio-Deploy 👉 
 
 ## Demo 🚀
 
-### [Live Demo](https://portfolio-iambijoykar.vercel.app/) 👉 https://portfolio-iambijoykar.vercel.app 
+### [Live Demo](https://react-portfolio-deploy.vercel.app) 👉 https://portfolio-Mubarak04Basha.vercel.app 
